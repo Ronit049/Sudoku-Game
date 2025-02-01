@@ -1,0 +1,2 @@
+gcc sudoku_solver.c -o sudoku_solver  
+./sudoku_solver  
